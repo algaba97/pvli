@@ -1,4 +1,4 @@
-﻿// Jorge Algaba
+﻿// Jorge Algaba VJ02
 // Comentario general sobre la solución,
 // explicando cómo se resuelve el problema
 #include <iostream>
